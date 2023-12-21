@@ -40,7 +40,6 @@ script {
 sh('npm run build-dev')
 }
 }
-sonar.projectKey=nodeapp
 }
  }
  }
